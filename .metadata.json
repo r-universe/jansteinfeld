@@ -1,10 +1,10 @@
 [
   {
-    "package": "tmt",
+    "package": "PP",
     "oncran": true
   },
   {
-    "package": "PP",
+    "package": "tmt",
     "oncran": true
   }
 ]
